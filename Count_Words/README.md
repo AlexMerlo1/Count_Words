@@ -1,0 +1,1 @@
+This program is used to sort the list of a txt file and return the amount of times that a word appears in the txt file. It runs by entering the name of an input file and output file.
